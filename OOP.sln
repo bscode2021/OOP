@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassPersonStudentAndTeache
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBookClass", "PhotoBookClass\PhotoBookClass.csproj", "{EB810EF6-74FB-40EC-836F-A083B4A6DF57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceOfObjects", "InheritanceOfObjects\InheritanceOfObjects.csproj", "{43931271-C3FF-45AE-8E15-D74F2DB07369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EB810EF6-74FB-40EC-836F-A083B4A6DF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB810EF6-74FB-40EC-836F-A083B4A6DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB810EF6-74FB-40EC-836F-A083B4A6DF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
