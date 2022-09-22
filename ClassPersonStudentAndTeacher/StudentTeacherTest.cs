@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ClassPersonStudentAndTeacher
 {
-    public class StudentTeacherTest
+    public static class StudentTeacherTest
     {
-        public void Main()
+        public static void Main()
         {
             Person person = new Person();
             person.Greeting();

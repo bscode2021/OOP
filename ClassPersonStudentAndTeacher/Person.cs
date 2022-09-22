@@ -8,7 +8,7 @@ namespace ClassPersonStudentAndTeacher
 {
     public class Person
     {
-        public int Age { get; set; }
+        internal int Age { get; set; }
 
         public void Greeting()
         {

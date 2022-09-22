@@ -1,4 +1,6 @@
 ﻿using ClassPersonStudentAndTeacher;
 
-StudentTeacherTest test = new StudentTeacherTest();
-test.Main();
+//StudentTeacherTest test = new StudentTeacherTest();
+//test.Main();
+
+StudentTeacherTest.Main();
