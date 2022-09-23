@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorsAndDestructors"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassPersonStudentAndTeacher", "ClassPersonStudentAndTeacher\ClassPersonStudentAndTeacher.csproj", "{33FB6E93-4A03-4CB7-9F0A-FC88916DFF7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBookClass", "PhotoBookClass\PhotoBookClass.csproj", "{EB810EF6-74FB-40EC-836F-A083B4A6DF57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoBookClass", "PhotoBookClass\PhotoBookClass.csproj", "{EB810EF6-74FB-40EC-836F-A083B4A6DF57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceOfObjects", "InheritanceOfObjects\InheritanceOfObjects.csproj", "{43931271-C3FF-45AE-8E15-D74F2DB07369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceOfObjects", "InheritanceOfObjects\InheritanceOfObjects.csproj", "{43931271-C3FF-45AE-8E15-D74F2DB07369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesClassDiagram", "ShapesClassDiagram\ShapesClassDiagram.csproj", "{BF111A36-BA11-4D50-9EB4-61435CB014AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43931271-C3FF-45AE-8E15-D74F2DB07369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF111A36-BA11-4D50-9EB4-61435CB014AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF111A36-BA11-4D50-9EB4-61435CB014AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF111A36-BA11-4D50-9EB4-61435CB014AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF111A36-BA11-4D50-9EB4-61435CB014AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
