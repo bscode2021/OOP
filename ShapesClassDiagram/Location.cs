@@ -8,6 +8,6 @@ namespace ShapesClassDiagram
 {
     public class Location
     {
-        private double x, y;
+        internal double x, y;
     }
 }

@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace ShapesClassDiagram
 {
-    public class Shape
+    public abstract class Shape
     {
         protected Location Location { get; set; }
 
+        public Shape(double x , double y)
+        {
+            Location = new Location();
+            Location.x = x;
+            Location.y = y;
+        }
         public override string ToString()
         {
-            return "";
+            return $"x : {Location.x} y : {Location.y}";
         }
 
-        public double Area()
-        {
-            return 1.1;
-        }
+        public abstract double Area();
 
-        public double Parametar()
-        {
-            return 2.2;
-        }
+        public abstract double Perimeter();
     }
 }
